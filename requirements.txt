@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+sentence-transformers
+langchain
+chromadb 
+huggingface-hub
+torch  # for models
+gradio  # or streamlit
