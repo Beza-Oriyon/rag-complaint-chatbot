@@ -8,3 +8,7 @@ chromadb
 huggingface-hub
 torch  # for models
 gradio  # or streamlit
+langchain-community
+langchain-text-splitters
+sentence-transformers
+tqdm
